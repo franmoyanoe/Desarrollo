@@ -106,3 +106,9 @@ main .nosotros__imagenb {
   height: 320px;
   border-radius: 20%;
   margin: 2rem 2rem 2rem 2rem; }
+
+main .contacto__texto {
+  margin: 45px 12px 30px 30px; }
+
+main .contacto__texto2 {
+  margin: 45px 12px 30px 30px; }
