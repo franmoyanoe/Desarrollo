@@ -97,7 +97,7 @@ main .nosotros__texto {
 
 main .nosotros__imagena {
   width: 320px;
-  height: 320px;
+  height: 250px;
   border-radius: 20%;
   margin: 2rem 2rem 2rem 2rem; }
 
@@ -108,7 +108,22 @@ main .nosotros__imagenb {
   margin: 2rem 2rem 2rem 2rem; }
 
 main .contacto__texto {
-  margin: 45px 12px 30px 30px; }
+  display: flex;
+  font-size: 30px;
+  margin: center;
+  min-height: 15vh; }
 
-main .contacto__texto2 {
-  margin: 45px 12px 30px 30px; }
+main .contacto__formulario {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+main form {
+  width: 450px; }
+
+main .contacto__mapa {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem; }
