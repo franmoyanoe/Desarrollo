@@ -43,6 +43,13 @@ main{
         margin-bottom: 350px;
         margin-top: 50px;
     }
+
+    .anima{
+        display: flex;
+        font-size: 50px;
+        margin: 4rem 3rem 2rem 1rem;
+        min-height: 15vh;    
+    }
     .promo__texto{
         font-family: $letra2;
         align-items: center;
@@ -52,8 +59,8 @@ main{
     }
     .servicio{
         display: flex;
-        font-size: 30px;
-        margin:center;
+        font-size: 50px;
+        margin: 4rem 3rem 2rem 1rem;
         min-height: 15vh;
     
     }

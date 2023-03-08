@@ -56,6 +56,12 @@ main .promo {
   margin-bottom: 350px;
   margin-top: 50px; }
 
+main .anima {
+  display: flex;
+  font-size: 50px;
+  margin: 4rem 3rem 2rem 1rem;
+  min-height: 15vh; }
+
 main .promo__texto {
   font-family: "Merriweather", serif;
   align-items: center;
@@ -65,8 +71,8 @@ main .promo__texto {
 
 main .servicio {
   display: flex;
-  font-size: 30px;
-  margin: center;
+  font-size: 50px;
+  margin: 4rem 3rem 2rem 1rem;
   min-height: 15vh; }
 
 main .servicio__texto {
