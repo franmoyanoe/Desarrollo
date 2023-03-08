@@ -1,0 +1,26 @@
+.servicio{
+    display: flex;
+    font-size: 50px;
+    margin: 4rem 3rem 2rem 1rem;
+    min-height: 15vh;
+
+}
+
+.servicio__texto{
+    font-family:$letra2;
+    font-size: 30px;
+    max-width: max-content;
+    height: 100px;
+    color: rgba(74, 6, 95, 0.74);
+    margin: 8rem 2rem 2rem 4rem;
+    border-color: rgb(7, 7, 7);
+    position: relative;
+
+}
+
+.servicio__imagen{
+    width: 320px;
+    height: 320px;
+    border-radius: 20%;
+    margin: 2rem 2rem 2rem 2rem;
+}

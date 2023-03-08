@@ -1,0 +1,18 @@
+.inicio__texto{
+    display:flex;
+    font-family: $letra2;
+    font-size: 30px;
+    max-width: max-content;
+    height: 100px;
+    color: rgba(74, 6, 95, 0.74);
+    margin: 10rem 2rem 5rem 2rem;
+    border-color: rgb(7, 7, 7);
+    position: relative;
+
+}
+.inicio__imagen{
+    width: 320px;
+    height: 320px;
+    border-radius: 20%;
+    margin: 4rem 2rem 2rem 2rem;
+}

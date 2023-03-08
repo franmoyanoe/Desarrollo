@@ -1,0 +1,24 @@
+.contacto__texto{
+    display: flex;
+    font-size: 30px;
+    margin:center;
+    min-height: 15vh;
+}
+
+.contacto__formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 450px;;
+}
+
+.contacto__mapa{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+

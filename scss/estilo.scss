@@ -26,5 +26,30 @@ header{
         margin-bottom: 10px; 
     }
 }
+main{
 
-@import "main";
+
+    h1 {
+        font-family: $letra1;
+        align-items: center;
+        justify-content: center;
+        padding-left: 50px;
+        border: 50px;
+        color: rgba(0, 0, 0, 0.719);
+        margin: 45px 12px 2px 30px;
+    }
+    h2 {
+        font-family: $letra2;
+        align-items: center;
+        justify-content: center;
+        padding-left: 50px;
+        border:50px;
+    }
+
+    @import "inicio";
+    @import "promociones";
+    @import "servicios";
+    @import "nosotros";
+    @import "contacto";
+
+}
